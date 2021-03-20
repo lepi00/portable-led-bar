@@ -16,23 +16,24 @@ I have just started learning electronics, and my knowledge is very basic.
 # Specifications
 
 The LED Bar - Light4Me LED UV 8
-^Characteristic                 ^Value                              ^Notes
-|Voltage:                       |AC110-240V, 50/60Hz                | |
-|Power:                         |30W                                | |
-|Light source:                  |8x3W UV LED                        | |
-|Light angle:                   |65°                                | |
-|Light wavelength:              |390-410 nm                         | |
-|Dimensions:                    |450 x 50 x 40 mm + 55 mm pins      | |
-|Weight:                        |0,6 kg                             | |
-|                               |                                   | |
-|LED driver inside (IP65):      |                                   | |
-|Model:                         |ZW0820                             | |
-|Power:                         |27 W                               | |
-|Input:                         |AC85V-265V 50/60Hz                 | |
-|Output Voltage:                |27-36V DC                          | |
-|Output Current:                |600 mA ±5%                         | |
-|TA:                            |60 °C                              | |
-|TC:                            |80 °C                              | |
+Characteristic                 | Value                              | Notes
+------------------------------ | ---------------------------------- | -----
+Voltage:                       | AC110-240V, 50/60Hz                |  
+Power:                         | 30W                                |  
+Light source:                  | 8x3W UV LED                        |  
+Light angle:                   | 65°                                |  
+Light wavelength:              | 390-410 nm                         |  
+Dimensions:                    | 450 x 50 x 40 mm + 55 mm pins      |  
+Weight:                        | 0,6 kg                             |  
+                               |                                    |  
+LED driver inside (IP65):      |                                    |  
+Model:                         | ZW0820                             |  
+Power:                         | 27 W                               |  
+Input:                         | AC85V-265V 50/60Hz                 |  
+Output Voltage:                | 27-36V DC                          |  
+Output Current:                | 600 mA ±5%                         |  
+TA:                            | 60 °C                              |  
+TC:                            | 80 °C                              |  
 
 Cells
 ^Characteristic                 ^Value                            ^Notes
@@ -100,4 +101,6 @@ Next Steps:
    - contact weld the cells (I don't have access to a contact welder)
    - design a 3d-printed casing for the cells with springs, that would slide into the LED bar casing
    - remember to discharge cells before in case of soldering
- 
+
+Notes:
+ - https://pl.aliexpress.com/item/1000001962896.html
